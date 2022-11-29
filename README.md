@@ -22,9 +22,10 @@ qbzipleech - or /qzl Leech torrent and upload as zip using qb
 qbunzipleech - or /quzl Leech torrent and extract using qb
 clone - Copy file/folder to Drive
 count - Count file/folder of Drive
-watch - or /y Mirror yt-dlp supported link
-zipwatch - or /yz Mirror yt-dlp supported link as zip
-leechwatch - or /yl Leech through yt-dlp supported link
+ytdl - or /y Mirror yt-dlp supported link
+ytdlzip - or /yz Mirror yt-dlp supported link as zip
+ytdlleech - or /yl Leech through yt-dlp supported link
+ytdlzipleech - or /yzl Leech yt-dlp support link as zip
 usetting - users settings
 bsetting - bot settings
 status - Get Mirror Status message
@@ -45,5 +46,5 @@ restart - Restart the Bot
 stats - Bot Usage Stats
 ping - Ping the Bot
 help - All cmds with description
-speedtest - Test the speed of server
 ```
+------
